@@ -8,39 +8,36 @@ assignees: ''
 ---
 
 - [ ] Searched existing issues to avoid creating duplicates.
-
-- [ ] Confirmed that it can be reproduced in built-in themes without customized css.
-
-   If it only exists in 3rd party themes or css, you can still report it, but please attach the theme target or the css file. We may not "fix" it, if it is caused by 3rd party themes or css styles that we cannot support.
-
-- [ ] Searched http://support.typora.io/
+- [ ] Searched http://powerasst.ganzhixiong.com/
 
 ----
 
-**Describe the bug**
+**Describe the bug**. 
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+**To Reproduce. 
 Steps to reproduce the behavior:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**Expected behavior. 
 A clear and concise description of what you expected to happen.
 
-**Screenshots / Screencasts**
+**Screenshots / Screencasts. 
 If applicable, add screenshots / screencasts to help explain your problem.
 
-**Sample Markdown File**
+**Sample Markdown File. 
 Please attach or send us <hi@typora.io> the sample md file that may reproduce this.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. Windows 10 32bit]
+**Desktop (please complete the following information):**  
 
-**Typora Version**
+ - OS: [e.g. macOS Monterey 12.3.1]
+
+**PowerAsst Version**. 
 e.g: 0.10.11
 
-**Additional context**
+**Additional context**. 
 Add any other context about the problem here.

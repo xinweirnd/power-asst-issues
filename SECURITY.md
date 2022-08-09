@@ -2,4 +2,4 @@
 
 ## Reporting a Vulnerability
 
-Please report to <hi@typora.io> directly.
+Please report to <gan.zhixiong@qq.com> directly.
